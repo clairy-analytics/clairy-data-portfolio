@@ -1,6 +1,8 @@
+## 📊 Clairy Analytics 📊
+
 Welcome! Here is Chelsea's pofessional data portfolio for analytics projects. Conveying insights and storytell the numbers here :)
 
-**Research Professional | Aspiring Business Analyst | Data-Driven Problem Solver**
+Research Professional | Aspiring Business Analyst | Data-Driven Problem Solver
 
 📍 Based in Bogor, Indonesia | 🎯 Transitioning to Business Analysis | 📊 Passionate about turning data into actionable insights
 
@@ -75,9 +77,9 @@ Built an automated competitive intelligence system that monitors market trends, 
 
 <div align="center">
   
-![Chelsea's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chelsea&show_icons=true&theme=default&hide_border=true)
+![Chelsea's GitHub Stats](https://github-readme-stats.vercel.app/api?username=clairy-analytics&show_icons=true&theme=default&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chelsea&layout=compact&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=clairy-analytics&layout=compact&theme=default&hide_border=true)
 
 </div>
 
@@ -85,10 +87,9 @@ Built an automated competitive intelligence system that monitors market trends, 
 
 ## 🎓 Continuous Learning
 
-- 📚 Currently pursuing: **Google Data Analytics Professional Certificate**
-- 🏆 Recently completed: **Agile Business Analysis Certification**
-- 📖 Reading: "Lean Analytics" by Alistair Croll & Benjamin Yoskovitz
-
+- 📚 Currently pursuing: **Machine Learning, Data Analysis, and Economics**
+- 🏆 Recently completed: **Product Management Bootcamp by Binar Academy**
+  
 ---
 
 ## 🤝 Let's Connect!
@@ -97,16 +98,8 @@ I'm actively seeking **Business Analyst** opportunities where I can contribute m
 
 **Ready to discuss how I can add value to your team?**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chelsea)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chelsea@email.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://chelsea.github.io)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chelseaaulia/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chelseafarika95@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://clairy-analytics.github.io)
 
----
 
-<div align="center">
-  
-**💼 Open to Business Analyst roles | 🌟 Available for immediate start | 📍 Based in Bogor, Indonesia**
-
-*"Turning complex data into simple, actionable insights that drive business success"*
-
-</div>
