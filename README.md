@@ -35,7 +35,7 @@ Developed a comprehensive dashboard analyzing customer journey patterns for an e
 ---
 
 ### 🏢 Business Process Optimization Study  
-**Tools:** Excel, Power BI, Visio, SQL Server  
+**Tools:** Excel, Power BI, SQL Server  
 **Impact:** Reduced operational costs by 25% and improved process efficiency by 40%
 
 Conducted end-to-end analysis of supply chain operations for a manufacturing company. Mapped current state processes, identified bottlenecks, and proposed solutions that streamlined workflows and eliminated redundancies.
@@ -73,10 +73,12 @@ Built an automated competitive intelligence system that monitors market trends, 
 
 ---
 
-## 📈 GitHub Stats
-![Chelsea's GitHub Stats](https://github-readme-stats.vercel.app/api?username=clairy-analytics&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=clairy-analytics&layout=compact&theme=default&hide_border=true)
+## 📊 GitHub Stats
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=clairy-analytics&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=clairy-analytics&layout=compact&theme=radical)
+```
 
 ---
 
