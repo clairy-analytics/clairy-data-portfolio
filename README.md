@@ -2,7 +2,7 @@
 
 Welcome! Here is Chelsea's pofessional data portfolio for analytics projects. Conveying insights and storytell the numbers here :)
 
-Research Professional | Aspiring Business Analyst | Data-Driven Problem Solver
+Research Professional | Jack of All Trades Analyst | Data-Driven Problem Solver | Data Storyteller
 
 📍 Based in Bogor, Indonesia | 🎯 Transitioning to Business Analysis | 📊 Passionate about turning data into actionable insights
 
@@ -77,9 +77,9 @@ Built an automated competitive intelligence system that monitors market trends, 
 
 <div align="center">
   
-![Chelsea's GitHub Stats](https://github-readme-stats.vercel.app/api?username=clairy-analytics&show_icons=true&theme=default&hide_border=true)
+![Chelsea's GitHub Stats] (https://github-readme-stats.vercel.app/api?username=clairy-analytics&show_icons=true&theme=default&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=clairy-analytics&layout=compact&theme=default&hide_border=true)
+![Top Languages] (https://github-readme-stats.vercel.app/api/top-langs/?username=clairy-analytics&layout=compact&theme=default&hide_border=true)
 
 </div>
 
