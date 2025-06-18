@@ -74,10 +74,9 @@ Built an automated competitive intelligence system that monitors market trends, 
 ---
 
 ## 📈 GitHub Stats
-<div align="center">
 ![Chelsea's GitHub Stats](https://github-readme-stats.vercel.app/api?username=clairy-analytics&show_icons=true&theme=default&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=clairy-analytics&layout=compact&theme=default&hide_border=true)
-</div>
+
 
 ---
 
